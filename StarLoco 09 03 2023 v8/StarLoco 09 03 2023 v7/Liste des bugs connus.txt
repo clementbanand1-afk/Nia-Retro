@@ -1,0 +1,65 @@
+BUG :
+•    Le Ougah tape avant le 3ème tour
+•    Le dopeul iop du temple rencontre des problèmes pour utiliser le sort "Bond" et allonge les combats
+•    Les coffres ne fonctionnent pas
+•    Les maisons doivent être corrigées
+•    Souvent, on ne voit pas les derniers dommages ou l'animation de mort du dernier mob et le panneau de fin de combat arrive trop vite (tempo ?)
+
+TO FIX :
+•    L'invocation de dopeul sacri ne lance pas l'attirance (Il faut créer une IA - Boostez-vous, l'attirance en ligne tape au cac et ne fuit pas)
+•    Le Coup de tête puis la Croute sur Araknée Majeur ne sont pas dans le bon ordre (C’est Croute puis Coup de tête)
+•    Les mobs (comme le tournesol sauvage) s'approchent trop pour attaquer alors qu'ils devraient avoir la ligne de vue avant (Il faut travailler sur les fonctions dans la partie IA)
+•    Le gardien du pont de la mort ne fonctionne pas comme sur la version officielle (Il y a une série de devinettes et d'aggro en cas d'erreur)
+•    Le système de FM n'est pas conforme à la version officielle
+•    Toutes les quêtes ne sont pas présentes
+•    Le système de résistance % des personnages n'est pas conforme à la version officielle (> à 50%)
+•    Le système de dopeul est basé sur une ancienne version de Dofus (manque xp supplémentaire + kamas quand on partle au pnj après le combat)
+•     L'IA du Gourlo n'est pas fonctionnelle
+•    Lorsque les esclaves rejoignent le combat, ils passent en mode 'prêt' mais l'épée au-dessus de leur tête n'apparait pas en jeu
+•    Les esclaves sauteraient des salles en donjon (vérifié fix normalement par arwase)
+•    L'adresse IP n'est pas sous le format * * * .* * * .* * * .*XX à la connexion en jeu
+•    Les probabilités de coup critique ne semblent pas être fidèles à ce qui est annoncé (ex: 1/2 au cc au corps à corps génère souvent de longues séries sans CC)
+•    Réinstaurer l'aperçu rapide du contenu des pierres d'âme pleines (info-bulle quand on passe la souris dessus)
+•    Après un coup de Corps à Corps en combat, il y a souvent un temps de 2-3 secondes avant que le -x pas arrive. Ce qui crée un temps pendant lequel on ne peut pas jouer.
+•    Le Minotot n'attaque pas
+•    Les familier sont générés avec "A mangé le : NaN/NaN"
+•    Certains mobs jouent leur tour avant la fin du monstre précédent
+•    Vérifier la maj qui consiste à FM des item de classe de Kevin, il me semble que c'est impossible
+•    La sacrifié du Sadi tape beaucoup trop fort
+•    L'arbre de vie ne lance pas son sort (mais on récupère de la vie dessus qd même)
+•    Les mobs ne privilégient pas les adversaires au invocs ou cawotte
+•    IA du corbac apprivoisé foirée 
+•    En cas d'échec critique la bulle 'Echec critique' n'apparait pas (CaC only?)
+•    Panel de fin de combat apparaît trop rapidement
+•    Vérifier le stuff à rajouter sur Disciple Pandawashu Feu/Air/Terre/Eau porte un stuff + archi Pandouille le Titubant (et variante sur Pandawa et Pandalette Ivre)
+•    Blop Multi n'invoque pas
+•    Vérifier le fidéltité du Dark Vlad
+•    Le Renarbo enlève 1 PA définitivement à chaque attaque (vérifier offi)
+•    Revoir les stats du Lapino (soigne un peu trop)
+•    Etat undefined contre Ouginak
+•    IA du Tofu Ventripotent HS (ne tape pas)
+•    IA du Tofuzmo HS (ne tape pas)
+•    IA Mama Bwork HS (tape un tour sur deux?)
+•    Les mobs ne changent pas leur comportement quand on est invisible
+•    La suppression des certificats de Karnage ou de Tabi entraîne des bugs
+•    Animation du sort d'invocation du chaton de l'éca à sniffer
+•    Lors d'un combat gagné avec toute sa vie on termine souvent avec des PDV en moins
+•    Bug à la modif (fm commande joueur) de polykrome puis équipement d'un autre item polychrome au même emplacement : ex impossible d'ajouter un PA à une coiffe et d'en équiper une autre en polykrome
+•    PNJ d'entrée des donjons Qu'Tan et Ily en undefined (Récupérer ID et dialog offi) 
+Côté client 1.39.8
+•    Normalement 100% fonctionnel
+Côté Map Otomaï
+•    Mapid 10757, 10770 = Key manquante
+•    Map manquantes à la position [-47,12] , [-51,3], [-55,-1]
+
+Qu'Tan et Ily :
+• Target effect des sorts
+• Drops 
+• Kamas
+• XP des mobs
+• Système de potion + effets
+• Salle du PNJ potion
+• PNJ entrée de donjon texte vide sans clef
+• Le nombre de clé ne diminue pas à l'entrée du donjon Ilyzaelle & Qu'Tan
+• Animation de sort attaque mortelle Qu'Tan
+• Création d'IA pour amélioration du comportement des mobs (par rapport à la version officielle)

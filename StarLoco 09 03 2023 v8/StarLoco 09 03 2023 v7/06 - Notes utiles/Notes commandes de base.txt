@@ -1,0 +1,44 @@
+Dans le chat :
+.commandes   -   pour visualiser l'ensemble des commandes
+/mapid pour avoir l'ID de la map
+/cellid pour avoir l'ID de la cellule sur laquelle vous êtes
+
+
+Afficher la console :
+dans le chat : /console
+ou CTRL + ²
+(Possible uniquement avec le Gode Mode)
+
+
+
+  .infos- Permet d'obtenir des informations sur le serveur.
+                 .deblo- Permet de vous débloquer en vous téléportant à une cellule libre.
+                 .staff- Permet de voir les membres du staff connectés.
+                 .reset- Permet de remettre ses caractéristiques à 0.
+                 .parcho- Permet de se parcho 101 dans tous les éléments.
+                 .level- Permet de fixer son level à une valeur. (Ex : .level 100)
+                 .vie- Permet de restaurer 100% de sa vie.
+                 .fmcac- Permet d'FM son cac dans un élément d'attaque. (ex : .fmcac feu)
+                 .exo- Permet d'exo un item PA ou PM. (ex : .exo cape pa)
+                 .start- Permet de se téléporter à la map de départ.
+                 .poutch- Permet de se téléporter au poutch.
+                 .enclos- Permet de se téléporter à un enclos.
+                 .pvp- Permet de se téléporter à la map pvp.
+                 .maitre- Permet de créer une escouade.
+                 .tp- Permet de téléporter votre escouade.
+                 .banque- Permet d'ouvrir l'interface de sa banque.
+                 .phoenix- Permet de se téléporter à la statue du Phoenix.
+                 .shop- Permet de se téléporter à la zone shop.
+                 .ange- Permet de passer en Alignement Bontarien.
+                 .demon- Permet de passer en Alignement Brakmarien.
+                 .neutre- Permet de passer en Alignement Neutre.
+                 .all- Permet d'envoyer un message à tous les joueurs. (ex : .all Hey!)
+                 .noall- Permet de ne plus recevoir les messages du canal général.)
+
+
+
+Sous navicat :
+/!\
+Allez en bas à droite, cliquez sur l'icône de tournevis et de la clé en rouge puis
+décocher "Limit Records" pour faire apparaître l'intégralité des données
+/!\

@@ -1,0 +1,277 @@
+21/09/2021 :
+•    Ajout du donjon Fungus Debug avec accès au boss + une potion pour accéder à Ougah.
+•    Mise à jour du client Dofus 1.29++/1.30++ avec de nouvelles fonctionnalités.
+•    Activation des auras sur les personnages GM.
+•    Ajout des cellules de début de combat similaires à celles de l'officiel pour la map Poutch : .poutch.
+11/10/2021 :
+•    Possibilité de se connecter avec les clients supérieurs à 1.32 (des bugs peuvent survenir).
+•    Correction du donjon Krala (petit problème d'orientation, devrait être résolu lors de la prochaine mise à jour).
+•    Refonte de la commande .maitre (créée à partir du code de Locos) qui permet aux personnages de suivre automatiquement leur maître.
+3/11/2021 :
+•    Ajout de la commande joueur .pass (adaptée de ScruffEmu).
+•    Correction des points de vie de la Cawotte.
+•    Correction de l'orientation du Kralamour.
+•    Correction du système de retrait de PA.
+•    Changement complet du système d'IA (à partir de ScruffEmu).
+•    Les mobs prennent en compte les lignes de vue.
+•    Correction du son des attaques lors des combats (Lang 2020 Dozen).
+•    Amélioration de l'IA du Dragonnet Rouge (ScruffEmu).
+•    Le Dragonnet debuff un adversaire bien boosté.
+•    Correction partielle de l'IA du Ougah (issue de ScruffEmu).
+•    Correction de l'IA du Kralamour.
+•    Refonte des IA des invocations de dopéuls.
+•    Correction des points de vie des invocations de chaferfu/chaferfu lancier.
+•    Correction des dégâts chaferfu lancier.
+•    Correction des PA/PDV des invocations d'arakne & de l'arakne majeure.
+•    Correction des dégâts de l'arakne majeur.
+•    Correction des animations de sorts des invocations des dopéuls.
+•    Correction des objets-vivants (plus de bugs de dissociation lors de l'ajout de Rolli ou autres).
+•    Les familiers achetés chez Bricky Brok sont maintenant fournis en jetmax.
+•    Les objets sont maintenant générés directement au niveau 20 (via la console ou chez Bricky Brock).
+•    Ajustement du soin de lapino (~200->100).
+•    Ajustement des stats du dopéul Ecaflip invoqué (Bluff300->150).
+•    Le chaton lance désormais Guigne (+X aux EC).
+30/11/2021 :
+•    Correction d'un bug du Ougah qui le faisait passer lorsqu'une invoq était posée sur le terrain
+•    Correction de l'IA du Bouftou Royal (utilisation correcte de l'abolition et du soin/tape)
+•    Ajout d'une commande joueur .ipdrop
+•    Ajout d'une commande joueur .onboard
+•    Ajout de dégâts en couleur pour les clients > 1.34 (modification du code et langues françaises)
+•    Mise à jour des GFX (graphismes) pour les Parcho/Potions/Runes/Certificats de Monture avec une version remastered pour avoir les skins rétro des items mentionnés
+•    Correction de l'affichage de l'info-bulle "Mode Tactique"
+•    Correction de l'affichage du panneau de loot pour les "Nombre de tours" / "minutes" / "secondes" 
+•    Correction de la fenêtre contextuelle des debuffs (flèches expi/puni + chati) avec une différenciation entre sorts débuffables et non
+•    Ajout de la version ALPHA (non définitive) des donjons Qu'Tan et Ilyzaelle (maps, cartes, mobs, sorts, panoplies, équipements, potions, IA, GFX, scripts, etc.)
+•    Insertion du code pour la boutique de points
+•    Ajout du code pour monter les DD (dragodindes) vendues par Bricky Brock (par EvoAll)
+•    Les invocations des dopeuls n'ont plus un cercle noir mais la couleur de l'invocateur (par Lolodie)
+•    Correction d'un bug d'affichage pour les dopeuls invoqués avec un bug de 7pdv (par Lolodie)
+•    Correction de l'apparence de Pandalette Ivre et Xelorette qui disposent maintenant de stuff
+•    Correction de l'aperçu des panoplies
+•    Ajout d'un compagnon invocable
+•    Correction de la map noir sur les clients > 1.34.1
+•    Ajout de la commande .nodrop
+•    Ajout d'attirance sur l'IA du dopeul sacri invoqué
+•    Correction des pdv des invoqs de chaferfu et chaferfu lancier (erreur de calcul dans les précédentes corrections)
+•    Correction des tailles de tous les mobs
+•    Correction des couleurs de tous les mobs sauf les diablotins (invoq de Qu'tan)
+•    Correction du nombre de Garde Havou dans la première salle du DJ Ilyzaelle
+•    Ajout de tous les grandes des deux donjons
+27/01/2022 :
+•    Correction du sort de dévouement de Xelor (maintenant la réduction de PA seulement le dernier tour 1)
+•    Correction de l'icône +1 PA de Xelor (auparavant, il affichait l'icône du cœur, d'eniripsa, maintenant il affiche correctement l'icône du dé)
+•    Correction de l'état du défi en quittant un combat (maintenant, il affiche 
+correctement le défi comme ayant échoué au lieu de réussi).
+30/01/2022 :
+•    Le nombre de tours est maintenant affiché pendant le combat et dans le panneau de combat (à la fin du combat)
+•    Correction du sort roue de la fortune d'ecaflip (maintenant le lanceur du sort subit toujours des dégâts)
+01/02/2022 :
+•    Correction d'un bug qui provoquait la répétition des quêtes entre les personnages d'un même compte
+•    Correction d'un bug qui permettait aux pièges sram d'être placés plus d'une fois sur la même cellule
+02/02/2022 :
+•    Correction d'un bug qui activait automatiquement les pièges AoE de sram si le lanceur (Sram) était à l'intérieur de l'AoE
+03/02/2022 :
+•    Correction de l'augmentation des statistiques pour les versions 1.37^ du client (il prend également en charge l'augmentation automatique si vous maintenez la touche 'shift' tout en appuyant sur l'icône '+')
+•    Il est maintenant possible d'inviter d'autres joueurs à la table des mages (forgemagie)
+04/02/2022 :
+•    Le sort de momification de Xélor dure désormais 5 tours au lieu de seulement 3
+•    Correction de la suppression des PA de Xélor et également du sort d'horloge de Xelor (il volait plus de PA que prévu)
+•    Il est désormais possible de fabriquer plusieurs objets sans avoir à fermer et à ouvrir la table de fabrication tout le temps
+09/02/2022 : 
+•    L'icône de la quête disparaît désormais correctement dès que le joueur obtient la quête.
+•    Correction d'un bogue qui entraînait le retour du message "Erreur de protocole" dans la console client pour les clients ayant la version 1.35+.
+10/02/2022 :
+•    Correction d'un bug qui faisait que la durée des combats était avancée de 2 heures lors de la vérification des combats de la carte actuelle.
+•    Correction d'un bug qui empêchait le joueur de pouvoir changer l'article de sa propre boutique (mode marchand).
+•    Correction d'un bug qui provoquait la sortie du jeu des joueurs dans certaines quêtes.
+11/02/2022 :
+•    Il est maintenant possible d'utiliser plusieurs consommables (pains, potions) avec shift + double clic (dofus retro client 1.37+)
+•    La quantité de l'objet du joueur est maintenant correctement mise à jour lors de la fabrication de plusieurs objets à la fois.
+•    Les HDV's de Bonta et Brakmar ne sont plus synchronisés (comme officiel)
+12/02/ 2022 :
+•    Les monstres devraient maintenant passer le tour plus rapidement (par exemple, les Poutchs)
+13/02/2022 :
+•    Les bonus de pano de Qu'tan et d'Ilyzaelle sont maintenant correctement reconnus par le serveur (même après la première connexion).
+•    La liste des artisans envoie désormais les emplois/professions appropriés en fonction de l'atelier dans lequel se trouve le joueur.
+•    Correction d'un bug qui faisait que certains combats avaient deux défis alors qu'en réalité il n'y en avait qu'un seul.
+•    Correction du sort Châtiment vitalesque (maintenant il soigne correctement le 
+sacrieur)
+14/02/2022 :
+•    Les runes des professions fonctionnent désormais correctement (elles vous ajoutent ou vous retirent de la liste publique des artisans).
+16/02/2022 :
+•    La potion de changement de nom fonctionne désormais correctement pour tous les types de noms (à condition qu'ils respectent les règles de dénomination des personnages).
+•    Les taux d'esquive AP et MP sont maintenant plafonnés visuellement à 200% (hors buffs de combat) comme dans la version rétro officielle d'Ankama.
+18/02/2022 :
+•    La bière Bwork affiche désormais les valeurs d'énergie correctes (1 à 10)
+19/02/2022 :
+•    Les PNJ du temple ont maintenant le modèle officiel d'Ankama.
+20/02/2022 :
+•    Les noms et les PNJ de Qu'tan et d'Ilyazelle correspondent désormais au langage rétro officiel de Dofus.
+22/02/2022 :
+•    Le combat ne s'arrête plus brusquement lorsque les ennemis sont tués par des pièges, des glyphes ou des invocations du joueur.
+•    La taille minimale des groupes de monstres a été ramenée de 3 à 1 (les groupes de monstres uniques apparaissent désormais dans le jeu).
+26/02/2022 :
+•    Les familiers ne sont plus générés avec des statistiques complètes hors Bricky Brock.
+01/03/2022 :
+•    Le sort Horloge de Xélor peut maintenant retirer 2 PA en coup critique.
+23/01/2023 :
+•    Commandes joueurs lié à la base de données.
+•    Prestige lié à la base de données.
+•    Nouvelle condition : PRE , exemple : PRE>1 , prestige supérieur a 1. A mettre dans les colonnes conditions en base de données.
+•    Nouvelle config.txt. (Se génére toute seule lors du lancement si inéxistant)
+•    Possibilités de donner des items/pano lors de la création d'un personnage via la
+•    Client intégré au dossier Dofus Retro officiel, prise en compte d'Electron, nom du perso en haut de la fenêtre et optimisation multi-compte 
+config.txt
+•    Commande joueur giveItem ( numéro 6 ) avec arguments exemple : idTemplate,idTemplate,idTemplate,idTemplate;true (true veut dire jetMax)
+•    Nouveau système de stockage des items équipés.
+•    Le serveur game n'envoie plus de packet au client pour créer un item/pet/mount/quest/guild
+•    Refonte système de parchotage et reset stats.
+•    Mimibiote ( Objet action 35 ) ( Item Template mimibiote : 4 )
+•    Cameleon DD ( Objet action action 36 ) ( Item Template Potion : 2 )
+•    Piège débugué a 100% ( Normalement 🤗 )
+•    Demande désormais au Login l'ID pour le futur player crée.
+•    Item classe fonctionnel.
+•    Link map -4,-6 avec -5,-6 et -10,-20 avec -10,-19
+•    Fix du donjon squelette (déco quand on entre)
+•    DEBUG :
+•    Commande joueur FM cac fonctionne a 100%
+•    Ne peut plus équiper plusieurs items. ( exemple 20 anneaux )
+•    Enleve bien la morph des armes qui transforme lorsque on déséquipe l'arme.
+•    Drop item équipé fonctionne correctement.
+•    Ne génére plus d'ID object fantome.
+•    IA moins bugé
+•    Porter/Jeter panda débugé
+•    Les items de class gardent leur effets lors d'un reboot 
+AUTRES :
+•    Refactoring du code en masse afin de le rendre plus lisible et professionel.
+•    Refactoring mouvement des objects dans l'inventaire. Grosse optimisation
+•    N'envoie plus les packets de Stats lorsque on positionne un consomable dans la barre des raccourcis items.
+•    Refactoring des actions des objets + optimisation
+•    Refactoring addObjet et createNewItem
+•    Optimisation getDirBetweenTwoCase
+09/03/2023
+merci à Kevin :
+•    Les items utilisent dorénavant une LinkedHashMap pour les stats normaux, mais les joueurs gardent toujours les HashMap
+•    Fichier itemstats pour le fichier lang afin que l'ordre des stats des items templates soit le même côté serveur et client.
+•    Les stats template des items sont dans le même ordre que les stats des objets crées.
+•    Tous les objets déjà créés possèdent leur stats en ordre.
+•    SQL mis au gout du jour
+Merci à Arwase :
+•    Ajout du Gladiatrool en version beta (Merci à Arwase qui a tout donné!)
+•    Intégration du client 1.39.8 64bits avec prise en compte d'électron (pas encore 100% fonctionnel)
+•    Client intégrant les commandes /noanim & /skiplootpanel (Merci à Arwase)
+•    Ajouts des montures 1.39 ; Tabi et Karnage
+Merci à vous tous :3
+•    Ajout de la commande joueur .gladia ou .gladiatrool pour se téléporter devant le gladia
+•    Ajout d'un PNJ à la map start pour se procurer en jeton pour le Gladiatrool
+•    Ajout des Popo vers Kralamoure, Qu'Tan et Ilyzaelle
+11/03/2023
+Merci à Hydronish (iR3SH) et Arwase
+•     Fix IA Lapino (Ne buffait pas tout le temps son invocateur)
+•     Fix IA Kaskapointe la Couverte (Ne faisait rien)
+•     Fix IA Minotot (IA 80, manque Attaque Sort Tofu)
+•     Fix EffectTarget Transpékisation
+•     Ajout de la Fonction ifCanMove pour savoir si un monstre peu se déplacer
+•     Ajout de la Fonction ifCanAttack pour savoir si un monstre peu attaquer
+•     Ajout de la Fonction ifCanAttackWithSpell pour savoir si un monstre peu attaquer une cible précise avec un sort précis
+•     Ajout de try catch dans les functions de la Classe Function pour éviter les crash d'IA
+12/03/2023
+•     Fix Bug effet de Sort +do parfois ça ajoute +dom par déco reco
+•     Fix Bug effet de Sort - Pa le packet est envoyé trop de fois
+•     Fix IA Kimbo
+•     Fix applySpellEffect 181 (Invocations)
+•     Correction level 5 Fantôme Ardent & Fantôme Brave
+•     Fix refreshBuff in Fight
+•     Fix vol de PA Infini
+•     Fix restauration des sorts en sortant du Gladiatrool
+•     Fix des Effets Item Classe à ne pas ajouter 2 fois
+13/03/2023
+•     Correction Sort Bitouf des Plaines
+14/03/2023
+•     Correction changement de personnage
+•     Correction durée de Gain de Pa du Rasboul Majeur
+•     Fix Sorts DragOeuf Immature + Archi
+•     Fix EffectTarget du Sort Ruse Kitsoune
+•     Fix EffectTarget du Sort Communion Elémentale
+•     Fix EffectTarget du Sort Graines Magiques
+•     Fix EffectTarget du Sort Buvette
+•     Fix EffectTarget du Sort Kalik
+•     Fix EffectTarget du Sort Meupette Choh
+•     Fix EffectTarget du Sort Blop Zone
+15/03/2023
+•     Fix 2 NullExpointerException in Player.java
+•     Fix 1 NullExpointerException in Fight.java
+•     Fix Shortcut Items (Add / Move / Remove)
+16/03/2023
+•     Fix effet de sort appliqué alors que la cible était morte
+•     Fix EffectTarget du Sort Emmental
+•     Fix EffectTarget du Sort Roblochon ancestral
+•     Fix EffectTarget du Sort Fleur des Iles
+•     Fix EffectTarget du Sort Ebranlement
+•     Fix Animation du Sort Flèche Persécutrice
+•     Fix NullExpointerException in Fight.java - > onFighterDie line 2948
+•     Fix SetToniqueInterface si le joueur n'a pas validé son tonique pendant un reboot ou déco / reco
+•     Un joueur ne peut plus recevoir un tonique s'il n'est pas dans le gladiatrool
+•     Fix commande joueur .restat
+•     Fix onMovementObject réequipe correcte l'item après avoir enlevé l'ancien
+17/03/2023
+•     Fix de toutes les maps avec les nouveaux paramètres de maps dans les SWF
+•     Passage à la version de MinaCore 2.2.1 (Meilleur gestion des sessions)
+•     Refonte complète des fonctions ApplySpellEffect pour le Retrait Pa/Pm et le vol de Pa/Pm
+•     Fix EffectTarget du Sort Frappe Sismique
+•     Fix EffectTarget du Sort Dragofeu
+•     Fix EffectTarget du Sort Esprit d'Equipe
+•     Fix EffectTarget du Sort Flagéllation florale
+•     Fix GetPointLost on ne peut plus perdre plus de pa/pm que l'on a de disponible en combat
+•     Fix de tout les accents
+18/03/2023
+•     Fix EffectTarget du Sort Piège d'Immobilisation
+•     Fix EffectTarget du Sort Réconciliation
+•     Fix EffectTarget du Sort Pince de Corail
+•     Fix EffectTarget du Sort Coraillement
+•     Correction des Sorts du Cybwork
+•     Implentation de toutes les Stats de Solomonk sur les monstres en BDD
+•     Ajout de toutes les MapKey Officiels des maps gladiatrool
+•     Baisse des Stats du Péki Péki (Tapait beaucoup trop fort)
+19/03/2023
+•     Fix EffectTarget du Sort Esprit Félin
+•     Fix EffectTarget du Sort Rekop
+•     Fix EffectTarget du Sort Esprit d'Equipe
+•     Fix SpellEffect MultiDo
+•     Fix SpellEffect Radicelle
+•     Fix Spell Peste Noire
+•     Fix Spell Rascasse
+•     Fix Spell Frappe Sismique (Pas terminé)
+•     Fix EffectTarget du Sort Tout ou Rien
+•     Fix de la prise en compte des EffectTarget, les CCEffectTarget n'était pas du tout pris en compte
+•     Fix de l'EffectTarget Ronce Apaisante Level 6
+21/03/2023
+•     Nerf des Stats du Chêne Mou (Tapait du -3000 en 1 seul sort)
+•     Fix IA Chêne Mou
+•     Correction du Sort Enracinement
+•     Correction du Sort Embranchement du Chêne Mou
+•     IA 30 deviens l'IA Basique par défaut (remplace la 1)
+•     Fix du numéro de Palier
+•     Fix IA 30 (Attaque aussi les créatures statiques)
+•     Fix Sort Rasage
+•     Fix IA Silf le Rasboul Majeur
+•     Fix IA Gourlo le Terrible
+•     Fix Sort Cri du Crocabulia comme Officiel
+•     Fix IA Crocabulia
+•     Fix IA Minotor (Buff / Attaque / Invocation)
+•     Fix des IA qui attaquait quand même une cible même si elle était invisible
+•     Fix complet IA Minotot
+•     Ajout de l'Effet + Dommages Finaux %
+•     Ajout de l'Effet •     Dommages Finaux %
+•     Update des Stats par Paliers Gladiatrool
+22/03/2023
+•     Ajout des Pierre de Gardien de Donjon et des Pierres d'Archimonstre
+•     Fix sytème Pierre d'Âmes
+•     Fix des ApplyEffectTarget du Trool
+•     Fix EffectTarget du Sort Fronde Kanniboul
+•     CleanUp de Function.java pour une meilleure lisibilité
+•     Fix IA Corailleur Magistral
+•     Fix Affichage EffetId 105
+•     Fix IA Craqueleur Légendaire
+•     Fix EffectTarget du Sort Bise du Boufcoul
+

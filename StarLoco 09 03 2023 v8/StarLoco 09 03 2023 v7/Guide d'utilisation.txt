@@ -1,0 +1,50 @@
+1) Utilisation générale
+
+a) A votre disposition
+- Commandes joueur (à saisir dans le chat)
+- PNJ vendeur
+- Commandes admin (à saisir dans la console)
+- Menu Admin (écris des commandes dans la console)
+note : tous les clients sont partagés dans le discord
+b) Fonctionnement
+Utilisez la commande save pour sauvegarder vos nouveaux équipements, sinon ils seront perdus
+c) Créer un compte dans la base de donnée
+Rendez-vous dans Navicat -> Login -> Account
+d) Créer un personnage
+Tout se déroule normalement.
+
+
+2) Pour un nouveau personnage
+Lors de la création d'un personnage vous apparaissez à la map start.
+a) Vous pouvez vous donner des kamas supplémentaires soit :
+- Avec le PNJ Georges Cash
+- En achetant des bourses de Kamas à Bricky Brock
+- Avec la commande admin ci dessous :
+kamas 100000
+par exemple, pour se donner 100 000 kamas.
+b) Vous pouvez apprendre des sorts supplémentaires des manières suivantes :
+- Acheter les parchemins de sorts au PNJ Vendeur de Parchemin
+- Via le menu admin :
+Clique droit sur votre perso
+Puis Dons >> Et choisir Sort Elementaire/Maîtrise/Classe/d'Invocation.
+(Doom et Tuerie sont des sorts pour admin, à consommer avec modération! Lol)
+c) Vous pouvez tapez dans le chat .commandes ou .x et suivre l'ordre des commandes
+pour monter le level de votre perso, ses caracs, le parcho, lui booster les sorts.
+d) Vous pouvez maintenant le stuffer des manières suivantes :
+- Acheter le stuff chez Bricky Brock
+(Les familiers sont fournis sans stats et peuvent être montés au max avec la commande .jetmax all ou .jetmax familier.)
+- Vous donner le stuff via la commande admin :
+item 2469
+Avec 2469 = L'ID de l'item (ici un gelano)
+(Liste des items dans : 06 - Notes utiles -> ID Stuff.)
+- Vous donner des panoplies via le menu admin :
+Dons >> Panoplies >> Jet Max/Min/Aléat etc.
+e) Une fois votre personnage stuffé
+- Pensez à positionner les sorts
+- Vous pouvez maintenant tester votre config avec la commande .poutch
+f) Faites la team de vos rêves et...
+- Allez Pex comme des porcass avec la commande .maitre et .tp
+g) Modifiez les rates du serveur dans :
+03 - Emulateur StarLoco -> 04 - Game -> config.txt
+(Ouvrir avec Bloc note)
+Une fois les modifications terminées, relancez le serveur pour prendre en compte les modifications.

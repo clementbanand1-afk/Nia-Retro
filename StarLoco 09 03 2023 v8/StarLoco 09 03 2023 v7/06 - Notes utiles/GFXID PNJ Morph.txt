@@ -1,0 +1,950 @@
+Liste de GFXID
+Pnjs:
+GFXID	Description
+1010	Personnage Modérateur, Gardiens des Kanojedo
+Monstres:
+<
+Créer un site gratuit avec e-monsite - Signaler un contenu illicite sur ce site
+
+ID	GFXID	Nom
+31	1563	Larve Bleue
+34	1568	Larve Verte
+36	1566	Bouftou
+37	1156	Craqueleur
+39	1557	Lapino
+40	1562	Sanglier
+41	1020	Prespic
+42	1180	La Surpuissante
+43	1558	Tofu
+44	1012	Bwork Mage
+45	1018	Chaton
+46	1567	Larve Orange
+47	1001	Abraknyde
+48	1569	Tournesol Sauvage
+52	1564	Arakne
+53	1012	Bwork Mage
+54	1014	Chafer
+55	1062	Gelée Bleue
+56	1064	Gelée Menthe
+57	1066	Gelée Fraise
+58	1061	Gelée Royale Bleue
+59	1565	Champ Champ
+61	1572	Moskito
+62	1007	Chevaucheur de Karne
+63	1009	Crabe
+64	1050	Wabbit
+65	1051	Black Wabbit
+68	1054	Black Tiwabbit
+70	1509	Glutin boxeur
+72	1055	Tiwabbit Kiafin
+74	1004	Bwork Archer
+75	1025	DragOeuf Doré immature
+76	1032	DragOeuf Blanc
+78	1561	Rose Démoniaque
+79	1560	Pissenlit Diabolique
+81	1041	Kwak du Vent
+82	1026	DragOeuf Noir immature
+83	1042	Kwak de Flamme
+84	1043	Kwak de Glace
+85	1063	Gelée Royale Menthe
+86	1065	Gelée Royale Fraise
+87	1029	DragOeuf Doré
+88	1031	DragOeuf de Saphir
+89	1030	DragOeuf Noir
+90	1028	DragOeuf Blanc immature
+91	1034	DragOeuf Noir Eveillé
+93	1036	DragOeuf Blanc éveillé
+94	1033	DragOeuf Doré éveillé
+95	1035	DragOeuf de Saphir éveillé
+96	1053	Tiwabbit
+97	1052	Wo Wabbit
+98	1558	Tofu
+99	1056	Grand Pa Wabbit
+100	1139	Fire Beule
+101	1566	Bouftou
+102	1069	Mulou
+103	1020	Prespic
+104	1562	Sanglier
+106	1008	Craqueleur
+107	1071	Dark Vlad
+108	1068	Rib
+110	1047	Chafer Invisible
+111	1072	Tofu Maléfique
+112	1067	Boo
+113	1037	Dragon Cochon
+114	1021	La Folle
+115	1184	La Bloqueuse
+116	1181	La Sacrifiée
+117	1182	La Gonflable
+118	1073	Mineur Sombre
+119	1074	Forgeron Sombre
+120	1558	Tofu lancé
+121	1088	Minotoror
+123	1060	Cochon de Lait
+124	1078	Maître Vampire
+125	1089	Paysan en Détresse
+126	1084	Souris Grise
+127	1077	Vampire
+134	1570	Boufton Blanc
+147	1574	Bouftou Royal
+148	1573	Chef de Guerre Bouftou
+149	1571	Boufton Noir
+150	1080	Noeul
+152	1185	La Fourbe
+153	1075	Boulanger Sombre
+154	1081	Kwoan
+155	1095	Bandit du clan des Roublards
+156	1078	Vampire Captif
+157	1002	Araknelle
+158	1096	Coquille Explosive
+159	1107	Milimulou
+160	1097	Dopeul Feca
+161	1098	Dopeul Osamodas
+162	1099	Dopeul Enutrof
+163	1100	Dopeul Sram
+164	1101	Dopeul Xelor
+165	1102	Dopeul Ecaflip
+166	1103	Dopeul Eniripsa
+167	1104	Dopeul Iop
+168	1105	Dopeul Crâ
+169	1106	Dopeul Sadida
+170	1027	DragOeuf de Saphir immature
+171	1108	Dragodinde Amande Sauvage
+173	1458	Abraknyde Ancestral
+177	1083	Coffre Malveillant
+178	1076	Gobelin
+179	1057	Wabbit Squelette
+180	1109	Wa Wabbit
+181	1058	Wobot
+182	1059	Wabbit Gm
+194	1136	Scarafeuille Rouge
+198	1135	Scarafeuille Bleu
+200	1108	Dragodinde Rousse Sauvage
+207	1079	Citwouille
+208	1118	Tikokoko
+209	1116	Kokoko
+211	1115	Kanniboul Archer
+212	1113	Kanniboul Thierry
+213	1114	Kanniboul Jav
+214	1112	Kanniboul Sarbak
+215	1121	Trukikol
+216	1122	Gloutovore
+217	1119	Fourbasse
+218	1120	NodKoko
+220	1125	Tortue Rouge
+221	1126	Tortue Bleue
+222	1127	Tortue Verte
+223	1128	Tortue Jaune
+225	1130	Darkli Moon
+226	1129	Moon
+228	1133	Boomba
+229	1132	Nakunbra
+230	1124	Le Chouque
+231	1123	Canon Dorf
+232	1134	Meulou
+233	1131	Trooll
+235	1149	Kwak de Terre
+236	1212	Piou Violet
+237	1144	Sac Animé
+238	1143	Pelle animée
+239	1165	Dragonnet Rouge
+240	1137	Scarafeuille Vert
+241	1138	Scarafeuille Blanc
+242	1145	Flammèche Feu
+243	1146	Flammèche Eau
+244	1147	Flammèche Terre
+245	1148	Flammèche Air
+246	1564	Arakne
+248	1150	Brigandine
+249	1153	Oni
+250	1154	Aiguille
+251	8003	Crocoburio
+252	1083	Coffre au trésor
+253	1158	Abraknyde Sombre
+254	1001	Abraknyde Vénérable
+255	1564	Arakne Agressive
+256	1160	Tronknyde
+257	1157	Chêne Mou
+258	1164	Branche Invocatrice
+259	1161	Arakne Majeure
+260	1163	Branche Soignante
+261	1159	Crocodaille
+262	1014	Chaferfu
+263	1162	Chef Crocodaille
+264	1170	Cadran de Xélor
+265	1166	Bwak de feu
+266	1168	Bwak de terre
+267	1169	Bwak d'air
+268	1167	Bwak d'eau
+269	1042	Kwakere de Flamme
+270	1149	Kwakere de Terre
+271	1043	Kwakere de Glace
+272	1041	Kwakere de Vent
+273	1174	Blop Coco
+274	1171	Blop Indigo
+275	1172	Blop Griotte
+276	1173	Blop Reinette
+277	1175	Biblop Indigo
+278	1178	Biblop Coco
+279	1176	Biblop Griotte
+280	1177	Biblop Reinette
+281	1179	Corbac
+282	1183	Arbre
+283	1200	Coeur du village Brigandin
+284	1200	Coeur du village Brigandin
+285	1083	Coffre Animé
+286	1191	Tarche
+287	1039	Kanigrou
+288	1013	Serpentin
+289	1186	Maître Corbac
+290	1189	Chafer Lancier
+291	1190	Chafer Archer
+292	1048	Chafer d'élite
+293	1049	Craqueleur des plaines
+294	1086	Souris verte
+295	1152	Méga Craqueleur
+296	1192	Milicien
+297	1070	Sanglier Des Plaines
+298	1198	Scorbute
+299	1201	Croc Gland
+300	1085	Kolérat
+301	1196	Ouginak
+303	1105	Let Emoliug Le Ténébreux
+304	1105	Let Emoliug Le Blanc
+305	1104	Susej Le Pur
+306	1104	Susej L'Impur
+308	1099	Osurc L'Infâme
+310	1099	Osurc Le Bienveillant
+314	1191	Torche
+337	1100	Nipul Le Sauveur
+343	1038	Cavalier Porkass
+344	1040	Berger Porkass
+345	1102	Kirevam Le Déterminé
+346	1102	Kirevam Le Terrifiant
+347	1097	Amlub Le Protecteur
+348	1097	Amlub Le Fossoyeur
+349	1101	Nebgib Le Stabilisateur
+350	1101	Nebgib Le Tourmenteur
+351	1100	Nipul Le Destructeur
+353	1098	Aboub Le Social
+355	1098	Aboub L'Antisocial
+356	1106	Gink Le Fourbe
+357	1106	Gink Le Sincère
+359	1103	Codem L'Altruiste
+360	1103	Codem La Bannie
+363	1200	Coeur Du Territoire Des Dopeuls
+364	1200	Coeur Du Territoire Des Dopeuls
+365	1179	Corbac égaré
+366	1070	Sanglier agressif
+368	1566	Bouftou Chassé
+369	1014	Mak Gahan
+370	1188	Mak Gahan équipé
+371	1209	Maître Bolet
+372	1205	Guerrier
+373	1046	Ecureuil Terrifiant
+374	1202	Eratz le Revendicateur
+375	1204	Nomekop Le Crapoteur
+376	1207	Tavernier Tabasse
+377	1203	Edasse Le Trouble Fête
+378	1193	Fantôme Ardent
+379	1195	Fantôme Brave
+380	1194	Fantôme Arepo
+382	1151	Tofu Royal
+384	1098	Aboub
+385	1097	Amlub
+386	1103	Codem
+387	1106	Gink
+388	1102	Kirevam
+389	1105	Let Emoliug
+390	1101	Nebgib
+391	1100	Nipul
+392	1099	Osurc
+393	1104	Susej
+394	9019	Chevalier
+395	1046	Ecureuil Chenapan
+396	1188	Chafer Fantassin
+397	1201	Croc Gland enragé
+398	9041	Dike Tarak
+399	1012	Krachan Porterr
+400	1207	Jiaye Djaul
+401	1211	Chevalier Norgard
+402	9033	Azra Lazarus
+403	1001	Colonel Lyeno
+404	1199	Momie Nova
+405	9041	Puja Mustam
+406	90	William Lenglad
+407	1206	Oto Mustam
+408	1096	Coquille Soignante
+410	8000	Vil Smisse
+411	1218	Larve Dorée
+412	1580	Larve Saphir
+413	1579	Larve Rubis
+414	1578	Larve Emeraude
+415	1190	Chafer Archer de Brâkmar
+416	61	Enora
+417	10	Tomoya
+418	20	Roturo
+419	20	WonnoLirsin
+420	110	SicraKira
+421	100	Momu
+422	1104	Dopeul Dark Vlad
+423	1635	Kralamoure Géant
+424	1632	Tentacule Primaire
+425	1217	Tentacule Kralamoure
+426	10	Petit Jan
+427	81	Lady Meriane
+428	1214	Encre Kralamoure
+429	1221	Gelée Citron
+430	1222	Gelée Royale Citron
+432	1002	Arakne faible
+433	1229	Epée Dansante
+434	1230	Epée Volante
+435	1092	Petit Boufton Blanc
+436	1053	Lapin
+437	1107	Mili-Milimulou
+438	1155	Brigandin
+439	1223	Robot Masse d'arme
+440	1220	Robot Pousse-pousse
+441	1155	Bricoleur
+442	1226	Rat d'Egoutant
+443	1155	Bricoleur
+444	1223	Robot Masse d'arme
+445	1220	Robot Pousse-pousse
+446	1228	Aermyne 'Braco' Scalptaras
+447	1227	Chaman d'Egoutant
+448	80	Bondu
+449	1226	Rat d'Hyoactif
+450	1232	Gardienne des Egouts
+453	9003	L'homme Ours
+454	1239	Le Ours
+455	1240	Dopeul Sacrieur
+456	1577	Larve Dorée
+457	1231	Shin Larve
+458	1073	Radlu Minite le Mineur Sombre
+459	1246	Padgref Demoël
+460	1247	Frakacia Leukocytine
+461	50	Nervoes Brakdoun
+462	1245	Ogivol Scalarcin
+463	1249	Fouduglen L'écureuil
+464	70	Brumen Tinctorias
+465	1226	Rat d'Egoutant malade
+466	1095	Bandit Manchot
+467	1044	Rose Obscure
+468	101	Louse Degraine
+469	1046	Ecureuil mesquin
+470	41	Fuu Yie
+471	11	Allisteria
+472	1002	Arakne perverse
+473	1019	Tofu Malade
+474	1564	Arakne Malade
+475	1226	Milirat d'Egoutant malade
+476	8008	???
+477	30	Diver Birel
+478	1242	Bworker
+479	1241	Mama Bwork
+480	1085	Sousouris
+481	1243	Qil Bil
+482	1044	Rose Artempeth
+483	1248	Craqueboule
+484	1244	Bwork Elémental de Feu
+485	1244	Bwork Elémental d'Eau
+486	1244	Bwork Elémental d'Air
+487	1244	Bwork Elémental de Terre
+488	1243	Cybwork
+489	1212	Piou Rouge
+490	1212	Piou Vert
+491	1212	Piou Bleu
+492	1212	Piou Rose
+493	1212	Piou Jaune
+494	1219	Poutch Ingball
+495	1251	La Ouassingue
+496	1252	Le Ouassingue
+498	1253	Gargrouille
+499	1254	Minotoboule de Nowel
+500	1255	Cadeau animé
+501	1208	Goriya
+502	1169	Timouss
+503	121	Tofawu
+504	120	Garde d'Akwadala
+505	1100	Dopeul Maléfique
+506	120	Disciple Ikwa
+507	120	Garde d'Akwadala
+508	120	Garde d'Aerdala
+509	120	Garde d'Aerdala
+510	120	Garde de Terrdala
+511	120	Garde de Terrdala
+512	120	Garde de Feudala
+513	120	Garde de Feudala
+514	1264	Maitre Pandawushu
+515	1265	Bulbiflore
+516	1261	Pandawasta
+517	1260	Pandit
+518	1266	Bulbuisson
+519	1273	Bulbig
+520	1002	Araknawa
+521	1232	Micromata
+522	1013	Cooleuvre
+523	1271	Kitsou Nakwa
+524	1285	Bambouto
+525	1095	Braconnier
+527	1276	Yokai Firefoux
+528	1275	Soryo Firefoux
+529	1275	Maho Firefoux
+530	1270	Kitsou Nere
+531	1268	Kitsou Nae
+532	1269	Kitsou Nufeu
+534	8010	Pandawa Ivre
+535	1278	Léopardo
+536	1260	Gempa
+537	1295	Pandore
+538	1200	Coeur De Feudala
+539	1200	Coeur De Terrdala
+540	1200	Coeur d'Aerdala
+541	1200	Coeur D'Akwadala
+542	1200	Coeur d'Aerdala
+543	1200	Coeur De Terrdala
+544	1200	Coeur D'Akwadala
+545	1200	Coeur De Feudala
+546	1286	Bambouto Sacré
+547	8011	Pandalette Ivre
+548	1267	Bulbambou
+549	1274	Pandule
+550	1248	Rok Gnorok
+551	120	Garde
+552	1153	Musha L'Oni
+553	121	Garde
+554	1076	Marzwel le Gobelin
+555	1264	Zatoïshwan
+556	1277	Cawotte
+557	120	Disciple Pandawushu Air
+558	120	Disciple Pandawushu Eau
+559	120	Disciple Pandawushu Feu
+560	120	Disciple Pandawushu Terre
+561	120	Disciple Pandawushu
+562	1268	Kitsou Nae
+563	1271	Kitsou Nakwa
+564	1270	Kitsou Nere
+565	1269	Kitsou Nufeu
+566	1260	Pandikaze
+567	120	Disciple Sankwa
+568	1283	Tanukouï San
+569	1284	Tanuki Chan
+570	1240	Idemas
+571	1284	Tanuki Chan
+572	1284	Tanuki Chan
+574	1284	Tanuki Chan
+575	1240	Idemas le Sanglant
+576	1240	Idemas le Blanchisseur
+577	1284	Tanuki Chan
+578	1260	Pandikaze aérien
+579	1260	Pandikaze vertige
+580	1264	Pandikwakaze
+581	1274	Pandulkaze
+582	1232	Touchparak
+583	1287	Fantôme Pandikaze
+584	1288	Fantôme Maho Firefoux
+585	1288	Fantôme Soryo Firefoux
+586	1290	Fantôme Léopardo
+587	1289	Fantôme Yokai Firefoux
+588	1292	Fantôme Tanukouï San
+589	1294	Fantôme Pandule
+590	1293	Fantôme Tanuki Chan
+594	1293	Fantôme Tanuki Chan
+595	1293	Fantôme Tanuki Chan
+596	1293	Fantôme Tanuki Chan
+597	1296	Fantôme Pandore
+598	1293	Fantôme Tanuki Chan
+599	1145	Zilla
+600	1256	Don Duss Ang
+601	1259	Don Dorgan
+603	1257	Cochon de Farle
+604	1117	Iop Mass Test
+605	1297	Péki Péki
+606	1083	Bouate de Pandore
+607	1264	Guerrier Pandikaze
+608	1296	Boîte Pandikaze
+609	1280	Pandamani
+611	1298	Bouate de Fantôme Pandore
+612	1295	Maître Pandore
+613	80	Test recul
+614	1282	Uk'Not'Allag
+615	9041	Eleveur des Kwaks de Terre
+616	1300	Fantôme Chacha
+617	1301	Fantôme Petit Chienchien Noir
+618	1309	Fantôme Wabbit
+619	1310	Fantôme Bwak de Feu
+620	1310	Fantôme Bwak d'Air
+621	1310	Fantôme Bwak d'Eau
+622	1310	Fantôme Bwak de Terre
+623	1303	Fantôme Ecureuil Chenapan
+624	1305	Fantôme Tortue
+625	1311	Fantôme Pioute Jaune
+626	1311	Fantôme Pioute Bleu
+627	1311	Fantôme Piou Vert
+628	1712	Fantôme Pioute Rouge
+629	1712	Fantôme Pioute Violet
+630	1712	Fantôme Pioute Rose
+631	1306	Fantôme Corbac
+632	1304	Fantôme Marcassin
+634	1308	Fantôme Nomoon
+635	1302	Fantôme Péki
+636	1300	Fantôme Petit Chacha Blanc
+637	9041	Gardien des Kwaks de Terre
+638	9041	Protecteur des Kwaks de Terre
+639	9041	Eleveur des Kwaks de Flammes
+640	9041	Gardien des Kwaks de Flammes
+641	9041	Protecteur des Kwaks de Flammes
+642	9041	Eleveur des Kwaks de Vent
+643	9041	Gardien des Kwaks de Vent
+644	9041	Protecteur des Kwaks de Vent
+645	9041	Eleveur des Kwaks de Glace
+646	9041	Gardien des Kwaks de Glace
+647	9041	Protecteur des Kwaks de Glace
+649	1083	Coffre Sombre
+650	1333	Abrakne
+651	1334	Abrakne Sombre
+652	1335	Champa Vert
+653	1335	Champa Rouge
+654	1335	Champa Bleu
+655	1335	Champa Marron
+657	1386	Monture du Petit Mino
+658	1046	Ecureuil chenapan (copie)
+659	1313	Fantôme Dragoune
+660	1316	Fantôme Minimino
+661	1314	Fantôme Croum
+662	1315	Fantôme Fotome
+663	1290	Fantôme Léopardo
+664	1	Fantôme Bilby
+665	1312	Fantôme Koin-Koin
+666	1108	Dragodinde Dorée Sauvage
+667	1016	Tueur d'invocations
+668	1384	Gamino
+669	1358	Craqueleur Légendaire
+670	1356	Koulosse
+671	1354	Bouftou des Cavernes
+672	1355	Boufcoul
+673	1357	Emeraude
+674	1369	Poupée Emeraude
+675	1357	Saphira
+676	1369	Poupée Affamée
+677	1357	Rubise
+678	1370	Totem Motivant
+679	1370	Totem Explosif
+680	1370	Totem Soignant
+681	1357	Diamantine
+682	1369	Poupée Mortelle
+684	1411	Epouvantail de Blé
+685	1412	Epouvantail d'Orge
+686	1414	Epouvantail d'Avoine
+687	1413	Epouvantail du Houblon
+688	1415	Epouvantail du Lin
+689	1418	Epouvantail du Seigle
+690	1417	Epouvantail du Riz
+691	1410	Epouvantail du Malt
+692	1416	Epouvantail de Chanvre
+693	1389	Craqueboule de Fer
+694	1389	Craqueboule de Cuivre
+695	1389	Craqueboule de Bronze
+696	1389	Craqueboule de Kobalte
+697	1389	Craqueboule de Manganèse
+698	1389	Craqueboule d'Etain
+699	1389	Craqueboule de Silicate
+700	1389	Craqueboule d'Argent
+701	1389	Craqueboule de Bauxite
+702	1389	Craqueboule d'Or
+703	1389	Craqueboule de Dolomite
+704	1429	Bulbilin
+705	1431	Bulbichanvre
+706	1433	Bulbitrèfle
+707	1432	Bulbimenthe
+708	1419	Bulborchidée
+709	1430	Bulbedelweiss
+710	1434	Bulpandouille
+711	1404	Frêne Ensorcelé
+712	1402	Châtaignier Ensorcelé
+713	1401	Noyer Ensorcelé
+714	1403	Chêne Ensorcelé
+715	1394	Bombu Ensorcelé
+716	1391	Oliviolet Ensorcelé
+717	1396	Erable Ensorcelé
+718	1397	If Ensorcelé
+719	1392	Bambou Ensorcelé
+720	1395	Kaliptus Ensorcelé
+721	1398	Merisier Ensorcelé
+722	1399	Ebène Ensorcelé
+723	1393	Bambou Sombre Ensorcelé
+724	1400	Orme Ensorcelé
+725	1405	Bambou Sacré Ensorcelé
+726	1349	Dévoreur de Goujons
+727	1349	Dévoreur de Truite
+728	1349	Dévoreur de Poisson Chaton
+729	1349	Dévoreur de Greu-Vette
+730	1349	Dévoreur de Crabe
+731	1349	Dévoreur de Poisson Pané
+732	1349	Dévoreur de Brochet
+733	1349	Dévoreur de Carpe
+734	1349	Dévoreur de Sardine
+735	1349	Dévoreur de Kralamoure
+736	1349	Dévoreur de Bar
+737	1349	Dévoreur de Raie
+738	1349	Dévoreur de Perche
+739	1349	Dévoreur de Requin
+744	1361	Koalak Sanguin
+745	1362	Warko Violet
+746	1363	Warko Marron
+747	1364	DoK Alako
+748	1365	Koalak Immature
+749	1368	Guerrier Koalak
+751	1359	Koalak Indigo
+752	1359	Koalak Coco
+753	1359	Koalak Griotte
+754	1359	Koalak Reinette
+755	1366	Mama Koalak
+756	1367	Koalak Farouche
+758	1439	Maître Koalak
+759	1381	Chevaucheur Koalak
+760	1382	Momie Koalak
+761	1383	Fossoyeur Koalak
+762	1369	Workette
+763	1440	Drakoalak
+765	1317	Fantôme Willy le Relou
+766	1320	Fantôme Koalak Sanguin
+767	1322	Fantôme Bworky
+768	1	Fantôme Fossoyeur Koalak
+769	1	Fantôme Koalak Immature
+770	1318	Fantôme Mini Wa
+771	9041	Dike Tarak (copie)
+772	9041	Dike Tarak (copie)
+776	1076	Alka Traz
+777	1076	Guan Tanamault
+778	1076	Luki Loushiano
+779	110	Edgg Komb
+780	1450	Skeunk
+782	1396	Charme Ensorcelé
+783	1447	Fauchalak
+784	1445	Piralak
+785	1446	Koalak Forestier
+786	1449	Pékeualak
+788	1193	Fantôme d'Aventurier Ardent
+789	1194	Fantôme d'Aventurier Arepo
+790	1195	Fantôme d'Aventurier Brave
+791	1131	Trooll Apprivoisé
+792	1241	Bworkette
+793	1117	Bouftou d'Halouine
+794	1111	Tofu d'Halouine
+795	1453	Scarafeuille Noir
+796	1462	Tofu Noir
+797	1455	Scarabosse Doré
+798	1454	Scarafeuille Immature
+799	1459	Tournesol Affamé
+800	1380	Batofu
+801	1443	Tofu Dégénéré
+802	1379	Bomberfu
+803	1377	Tofu en cage
+804	1376	Tofoune
+805	1375	Tofu Mutant
+806	1374	Tofukaz
+807	1373	Tofuzmo
+808	1372	Tofu Ventripotent
+809	1049	Kalcite le Synclinal
+810	1452	Kerpote le Sédimentaire
+811	1008	Kolkoze l'Anticlinal
+812	1248	Orkalite le Géodésique
+813	1322	Fantôme Bworky
+814	1325	Fantôme Tifoux
+815	1324	Fantôme El Scarador
+816	1326	Fantôme Bouloute
+817	1327	Fantôme Abra Kadabra
+818	1408	Corbac Apprivoisé
+819	1407	Buveur
+820	1406	Renarbo
+822	1096	Ballon
+823	1406	Rono le Renarbo
+824	1408	Horace le Corbac Apprivoisé
+825	1407	Kapotie le Buveur
+826	1049	Kirboule l'Erodé
+827	1444	Minotot
+828	1442	Dégelée
+829	1409	Serpiplume
+830	1388	Scaratos
+831	1387	Mominotor
+832	1338	Déminoboule
+834	1347	Minoskito
+835	1341	Mandrine
+836	1348	Kraméléhon
+837	30	Lorkos
+839	1472	Abominable Yiti des neiges
+840	1497	Kanigrou hivernal
+841	1518	Tofu givré
+842	1495	Glutin de Nowel
+843	1499	Glutin chevaucheur
+844	1091	Boufmouth
+845	1513	Bonhomme de neige
+846	1062	Glagla
+847	1518	Tofu hiberné
+848	1339	Dragoss Noir
+849	1514	Kipik
+851	1515	Glutin farceur
+853	1480	Dragoeuf Guerrier
+854	1451	Crocabulia
+855	1501	Dragueuse
+858	1340	Dragoss Noir Eveillé
+862	1502	Dragoeuf Volant
+864	1504	Sakai Firefoux
+865	1503	Grozilla
+866	1508	Grasmera
+867	1510	Bouboule de neige
+868	1518	Tofu enneigé
+869	1506	Craqueleur des glaces
+870	1505	Ver glacé
+871	1505	Ver getur
+872	1511	Papa Nowel
+874	1517	Demi papa Nowel
+876	1003	Bwork
+877	1340	Aqualikros l'Impitoyable
+878	1340	Dragoss Blanc Eveillé
+879	1340	Dragoss Doré Eveillé
+880	1522	Kol'nenfan
+881	1522	Koup'nenfan
+882	1522	Pet'nenfan
+884	1339	Dragoss de Saphir
+885	1339	Dragoss Blanc
+886	1339	Dragoss Doré
+887	1522	Cadob'Onux
+888	1522	Cadob'Omb
+889	1522	Cadob'Imbo
+890	1522	Bébé Cadob
+891	1523	Mini Nuit'
+892	1480	Terrakoubiak le Guerrier
+893	1480	Ignelicrobur le Guerrier
+894	1480	Aerohouctor le Guerrier
+895	1480	Aquabralak le Guerrier
+896	1519	Kitsou Nakwatus
+899	1520	Black Tiwabbitus
+901	1521	Kwakus
+902	1340	Ignerkocropos l'Affamé
+903	1340	Terraburkal le Perfide
+904	1340	Aerotrugobur le Malveillant
+905	1340	Dragoss de Saphir Eveillé
+906	1522	Cadob'
+907	1523	Minimini Nuit'
+917	1337	Araknotron
+919	1001	Abraknyde Malade
+920	1488	Pichon Orange
+921	1487	Pichon Bleu
+922	1485	Pichon Blanc
+923	1484	Pichon Vert
+924	1483	Pichon Kloune
+926	1481	Raul Mops
+927	1474	Etoile de la Mer d'Asse
+928	1546	Mob l'Eponge
+929	1478	Péki Garou
+930	1	Quivive
+931	1	Quivive (copie)
+932	1194	Fantôme Apero
+934	1184	La Bloqueuse
+935	1535	Rat de Marais
+936	1534	Rat Batteur
+937	1536	Rat Klure
+938	1537	Rat Basher
+939	1538	Rat Noir
+940	1544	Rat Blanc
+941	1539	Rat Bajoie
+942	1436	Rat Croc
+943	1541	Sphincter Cell
+944	1126	Raphaela
+945	1128	Donatella
+946	1127	Michelangela
+947	1125	Leonardawa
+948	1101	Paindep
+949	1076	Gobatchef
+950	1004	Krazybwork
+951	1003	Bworkidais
+952	1016	Boufball
+953	1241	Bworkcelhaine
+954	1490	Moumoule
+955	1097	Dopeul Feca
+957	1099	Dopeul Enutrof
+958	1100	Dopeul Sram
+959	1101	Dopeul Xélor
+960	1102	Dopeul Ecaflip
+961	1103	Dopeul Eniripsa
+962	1104	Dopeul Iop
+963	1105	Dopeul Crâ
+964	1106	Dopeul Sadida
+969	1456	Dopeul Pandawa
+970	1558	Petit Tofu
+971	1566	Petit Bouftou
+972	1570	Jeune Boufton Blanc
+973	1571	Jeune Boufton Noir
+974	1572	Moskito Peureux
+975	1563	Larve Bleue Immature
+976	1567	Larve Orange Immature
+977	1568	Larve Verte Immature
+978	1565	Champ Champ Vulnérable
+979	1560	Pissenlit Diabolique Apeuré
+980	1561	Rose Démoniaque Fragile
+981	1569	Petit Tournesol Sauvage
+982	1564	Arakne Immature
+983	1562	Jeune Sanglier
+984	1573	Petit Chef de Guerre Bouftou
+985	1076	Titi Gobelait
+986	1003	Bworkepik
+988	1076	Gobriel
+989	1001	Abraknyde Irascible
+990	1337	Araknotron Irascible
+991	1158	Abraknyde Sombre Irascible
+992	1334	Abrakne Sombre Irascible
+993	1212	Piou de Gobrose
+996	1014	Chafer Prépubère
+998	1475	Crabe Imprudent
+999	1219	Epouvantail d'Incarnam
+1001	1581	Milimilou
+1002	20	Ecraz Néhofite
+1003	1219	Epouvantail d'entraînement
+1004	1321	Fantôme Walk
+1005	1330	Fantôme Bébé Pandawa
+1006	1069	Mulou Grankrok
+1011	1376	Maman Tofu obèse
+1012	1372	Tofu obèse Gavé
+1013	1372	Papa Tofu obèse
+1014	41	Assassin Sram
+1015	1109	Wa Wabbit
+1016	120	Disciple Pandawushu
+1017	1275	Bob Lenald
+1018	1275	Bob Lenald
+1019	1586	Bitouf des Plaines
+1020	1631	Bitouf Aérien
+1022	1587	Corailleur
+1025	1528	Craqueleur Poli
+1026	1551	Craqueboule Poli
+1027	1617	Corailleur Magistral
+1029	1615	Floribonde
+1037	1332	Fantôme Ross
+1038	1307	Fantôme Bilby
+1039	1109	Prince d'Wa
+1041	1638	Bitouf Sombre
+1042	1003	Chef Bworkestre
+1043	1600	Poolay
+1044	1622	Kaskargo
+1045	1623	Kimbo
+1046	1531	Meupette
+1047	1598	Abrakleur Clair
+1048	1619	Sparo
+1049	1618	Barbroussa
+1050	1620	Le Flib
+1051	1621	Gourlo le Terrible
+1052	1610	Maître Zoth
+1053	1609	Gamine Zoth
+1054	1608	Guerrier Zoth
+1055	1606	Disciple Zoth
+1056	1607	Sergent Zoth
+1057	1624	Roissingue
+1058	1626	Tourbassingue
+1059	1625	Bourbassingue
+1060	1592	Crustorail Kouraçao
+1061	1594	Crustorail Malibout
+1062	1593	Crustorail Passaoh
+1063	1595	Crustorail Morito
+1064	1604	Palmifleur Kouraçao
+1065	1603	Palmifleur Malibout
+1066	1605	Palmifleur Passaoh
+1067	1602	Palmifleur Morito
+1068	1601	Mufafah
+1069	1628	Kido
+1070	1629	Kilibriss
+1071	1585	Silf le Rasboul Majeur
+1072	1616	Tynril Consterné
+1073	1614	Brouture
+1074	1613	Nerbe
+1075	1611	Fécorce
+1076	1612	Chiendent
+1077	1599	Abrakleur Sombre
+1078	1083	Coffre Maudit du Flib
+1079	1331	Fantôme Fëanor
+1080	1619	Tonneau
+1081	1597	Pumbaa
+1082	1133	Boomba Shika
+1084	1630	Rasboul Mineur
+1085	1616	Tynril Déconcerté
+1086	1616	Tynril Perfide
+1087	1616	Tynril Ahuri
+1088	1636	Disciple du Kimbo
+1090	1632	Tentacule Quaternaire
+1091	1632	Tentacule Tertiaire
+1092	1632	Tentacule Secondaire
+1093	120	Chevalier Noir et Rose
+1094	30	Gardien du Pont de la Mort
+1095	1303	Fantôme Chacha Tigré
+1096	1633	Le Ouassingue Entourbé
+1097	8102	Prisme
+1098	1606	Disciple Zoth
+1099	1606	Disciple Zoth
+1100	1609	Gamine Zoth
+1101	1609	Gamine Zoth
+1102	1608	Guerrier Zoth
+1103	1608	Guerrier Zoth
+1104	1610	Maître Zoth
+1105	1610	Maître Zoth
+1106	1607	Sergent Zoth
+1107	1607	Sergent Zoth
+1108	1189	Chaferfu Lancier
+1109	1200	Coeur du village des Zoths
+1110	1200	Coeur du village des Zoths
+1111	8101	Prisme bontarien
+1112	8100	Prisme brâkmarien
+1113	120	Disciple Pandawushu
+1117	1095	Voleur de Brâkmar
+1119	60	Bandit des plaines
+1120	1192	Garde des marchands
+1121	60	Lieutenant des bandits
+1122	90	Xephirès
+1123	41	Espionne d'élite
+1124	1192	Guerrier Bontarien
+1125	1205	Guerrier Brâkmarien
+1127	1201	Croc Gland repu
+1128	1192	Puissant milicien bontarien
+1129	1074	Nara
+1132	1004	Baweurk
+1133	1192	Milicien équipé
+1134	1192	Commandant bontarien Kad
+1135	91	Archère équipée
+1136	1205	Guerrier du cimetière
+1137	40	Assassin du cimetière
+1138	1125	Turorte
+1139	40	Espion blessé
+1140	20	Agent de Brâkmar
+1141	80	Poursuivant brâkmarien
+1142	80	Iop en cape brâkmarienne
+1143	30	Poursuivant bontarien
+1144	100	Sadida en cape bontarienne
+1145	1206	Oto Mustam
+1153	1643	Tromperelle
+1154	1644	Champaknyde
+1155	1640	Champodonte
+1156	1642	Champmane
+1157	1641	Champbis
+1158	1639	Champ à Gnons
+1159	1258	Ougah
+1160	1192	Commandant d'élite bontarien
+1169	1206	Oto Mustam
+1178	1335	Champa Explosif
+1179	1514	Sapik
+1180	1514	Pokipik
+1181	1652	Gloutoblop
+1182	1645	Blopignon
+1183	1653	Tronkoblop
+1184	1654	Blop Coco Royal
+1185	1657	Blop Griotte Royal
+1186	1656	Blop Indigo Royal
+1187	1655	Blop Reinette Royal
+1188	1647	Blop Multicolore Royal
+1189	1071	Marionnette du Dark Vlad
+1190	1574	Marionnette du Bouftou Royal
+1191	1037	Marionnette du Dragon Cochon
+1192	1088	Marionnette du Minotoror
+1193	1069	Marionnette du Mulou meulé
+1194	1660	Père Fwetar
+1196	1662	Demi père Fwetar
+1229	1133	Boomba saoulé
+1230	1123	Canon Dorf débutant

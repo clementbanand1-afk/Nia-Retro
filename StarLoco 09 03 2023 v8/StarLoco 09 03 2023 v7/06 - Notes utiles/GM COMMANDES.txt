@@ -1,0 +1,176 @@
+liste des GM Commands
+HELP- Permet de voir toutes les commandes disponibles ou de rechercher des commandes. Ne pas mettre de paramètres pour afficher toutes les commandes.
+ONLINE + [Pseudo] - Permet de réinitialiser les variables du joueur ciblé.
+ANAME + [message] - Permet d'envoyer un message à tout le serveur. Le HTML est autorisé.
+INFOS - Permet d'obtenir des informations sur le serveur
+STARTFIGHT - Permet de commencer le combat lorsque celui-ci est en sélection.
+GON + [Pseudo] - Permet de se téléporter à un joueur.
+TP + [mapId] [cellId] - Permet de se téléporter à un endroit précis.
+KICKFIGHT + [Pseudo] - Expulse le joueur du combat.
+DEBUG + [Pseudo] - Téléporte le joueur à son point de sauvegarde.
+WHO - Permet d'avoir la liste de 30 connectés maximum.
+WHOALL - Permet d'avoir la liste de tous les connectés.
+MUTE + [Pseudo] [Temps] - Empêcher le joueur de parler pendant un certain temps.
+UNMUTE + [Pseudo] - Autoriser le joueur à parler.
+JAIL + [Pseudo] - Mettre le joueur en prison.
+UNJAIL + [Pseudo] - Retirer le joueur de la prison.
+MUTEMAP - Personne ne peux parler sur le map.
+KICK + [Pseudo] - Expulse le joueur du serveur.
+RES + [Pseudo] - Ramener à la vie le joueur.
+ENERGIE + [Nombre] [Pseudo] - Redonner de l'énergie ou en retirer (avec un -).
+LIFE + [Pourcentage] [Pseudo] - Définir le pourcentage de vitalité du joueur. Mettre les trois chiffres : 000 pour 0%.
+ALIGN + [0 à 3] [Pseudo] - Modifie l'alignement du joueur. 0=N 1=BO 2=BR 3=ME
+ADDHONOR + [Nombre] [Pseudo] - Ajoute ou supprime de l'honneur à un mercenaire uniquement.
+JOBLEFT + [Pseudo] - Ferme les actions de métiers du joueur.
+NGO + [Pseudo] - Téléporter un joueur sur soi.
+SHOWITEM + [Pseudo] - Permet de voir l'inventaire du joueur.
+SHOWBANK + [Pseudo] - Permet de voir la banque du joueur.
+SHOWMOUNT + [Pseudo] - Permet de voir l'inventaire de la monture du joueur.
+BAN + [Pseudo] - Interdit au joueur de se connecter au serveur.
+BLOCKTRADE + [0 ou 1] - (0) Débloque ou (1) bloque les échanges.
+KICKALL - Expulse tous les joueurs du serveur.
+SHUTDOWN + [0 ou 1] [Temps] - (1) Lance un compte à rebours en minutes du reboot du serveur. (0) Désactive.
+EXIT - Reboot le serveur.
+SAVE - Lance une sauvegarde du serveur.
+BLOCKFIGHT + [0 ou 1] - (1) Bloque les combats. (0) Débloque.
+NOAGRO + [Pseudo] - Empêche les agressions des monstres.
+SPAWN + [monstreId,gradeMin,gradeMax] - Permet de faire spawn un groupe de monstre. On peut ajouter plusieurs monstres en les espaçant de ;
+RMOBS - Recréer les groupes de monstres de la map.
+ENDFIGHT + [0 ou 1] - (1) Fait gagner le combat aux joueurs - les rouges. (0) Fait perdre le combat - les bleus.
+CLEANFIGHT - Permet de supprimer les combats de la map. Les combats en cours de sont pas annulés. Recommandé d'utiliser cette commande après avoir utilisé KICKFIGHT
+MPTOTP - Les joueurs qui vous envoie des MPs seront directement TP à vous. Refaire la commande pour désactiver.
+RETURNTP - Annule les téléportations de la commande MPTOTP.
+UNBAN + [Pseudo] - Autorise l'accès à un joueur qui ne l'avait plus.
+UNBANIP + [Pseudo] - Autorise l'accès à un joueur qui ne l'avait plus.
+RESET + [Pseudo] - Réinitialise les statistiques du joueur.
+RENAMEPERSO + [Pseudo] [NewPseudo] - Modifie le pseudo du joueur. Attention à ne pas faire de doublon.
+RENAMEGUILDE + [nameGuilde] [newName] - Modifie le nom de la guilde. Attention à ne pas faire de double.
+DELJOB + [idJob] [Pseudo] - Supprime le métier du joueur. Nécessite une deconnexion.
+DEMORPHALL - Rend à tout les joueurs connectés sur le serveur leur apparence originale.
+MORPH + [-1 ou MorphId] [Pseudo] - Permet de transformer un joueur. -1 rend l'apparence originale.
+WHOIS + [Pseudo] - Permet d'obtenir tous les comptes et les personnages d'un joueur à partir de son IP.
+ERASEALLMAP - Détruit tous les objets au sol de toutes les maps du serveur.
+ERASEMAP - Détruit tous les objets au sol de la map actuelle.
+SIZE + [Nombre] [Pseudo] - Permet de modifier la taille d'un joueur
+GETCASES - Active ou désactive le listage de cellule.
+LISTMAP - Permet d'obtenir la liste de toutes les maps de la position.
+WALKFAST - Active ou désactive le déplacement instantané.
+ADDTRIGGER + [Mapid,Cellid] - Ajoute un trigger sur la carte où vous êtes à destination indiqué.
+DELTRIGGER + [Cellid] - Supprime le trigger sur la map actuelle.
+SAVETHAT - Sauvegarde la mapId et la cellId où l'on se trouve.
+APPLYTHAT - Ajoute un trigger où l'on se trouve vers la position enregistré avec la commande SAVETHAT.
+STRIGGER - Sauvegarde la mapId et la cellId où l'on se trouve.
+APTRIGGER - Ajoute un trigger où sur la position enregistré avec la commande STRIGGER vers notre position.
+BANIP + [Pseudo] - Interdit le serveur à tous les comptes qui ont la même IP que la cible. Les expulse du serveur immédiatement.
+FLOOD + [Pseudo] [Nombre] - Permet d'ouvrir des onglets internet à un joueur toutes les 50ms.
+A + [message] - Permet d'envoyer un message à tout les connectés sous le pseudo de serveur.
+POPALL + [message] - Permet d'envoyer un popup à tous les connectés.
+POP + [Pseudo] [message] - Permet d'envoyer un popup à un joueur.
+FREEZE + [Pseudo] - Empêche le joueur de se déplacer.
+BLOCKMAP + [0 ou 1] - (1) Bloque la map. (0) Débloque la map.
+RELOADDROP - Permet de recharger les drops à partir de la base de données.
+RELOADENDFIGHT - Permet de recharger les endfights à partir de la base de données.
+RELOADHOUSE - Permet de recharger les maisons à partir de la base de données.
+RELOADCOFFRE - Permet de recharger les coffres à partir de la base de données.
+RELOADACTION - Permet de recharger les actions à partir de la base de données.
+RELOADMAP - Permet de recharger les maps à partir de la base de données.
+RELOADMOUNTPARK + [id] - Permet de recharger un enclos.
+RELOADNPC - Permet de recharger les PNJ à partir de la base de données.
+RELOADSPELL - Permet de recharger les sorts à partir de la base de données.
+RELOADITEM - Permet de recharger les items à partir de la base de données.
+RELOADMONSTER - Permet de recharger les monstres à partir de la base de données.
+LOG - Active ou désactive le mode débug de la console.
+MAPINFO - Permet d'afficher les informations de la map : PNJ, monstres.
+MOVEMOB - Permet de déplacer un groupe de monstre sur la map.
+ADDNPC + [NpcId] - Ajoute un PNJ sur notre position.
+DELNPC + [NpcId] - Supprimer le PNJ sur notre map.
+A1 - Modifie la cellule de spawn de l'enclos où l'on se trouve.
+B1 - Active le getCases.
+C1 - Permet d'ajouter les cellules capturé dans l'enclos. Désactive le getCases.
+CONVERT - Permet de convertir un entier en base 16.
+DELNPCITEM + [npcId] [itemId] - Supprime un objet de la vente du PNJ sur notre map.
+ADDNPCITEM + [npcId] [itemId] - Ajoute un objet à la vente du PNJ sur notre map.
+SHOWPOINTS + [Pseudo] - Affiche les points du joueur.
+LISTTYPE + [typeId] - Permet de lister tous les objets d'un type d'objet.
+LISTEXTRA - Liste tous les extras monstres sur les maps.
+SEND + [paquet] - Permet de s'envoyer un paquet.
+SENDTOMAP + [paquet] - Permet d'envoyer un paquet à toute la map.
+SENDTO + [Pseudo] [paquet] - Permet d'envoyer un paquet à un joueur.
+ALLGIFTS + [itemId] [qté] [jp] - Envoie un cadeau à tout le serveur.
+GIFTS + [Pseudo] [itemId] [qté] [jp] - Envoie un cadeau à un joueur.
+SETSTATS + [guidItem] [stats] - Permet de modifier les stats brutes d'un objet.
+EMOTE + [ID] [Pseudo] - Donne l'émote à un joueur.
+CREATEGUILD + [Pseudo] - Fait apparaître l'interface de création de guilde au joueur.
+TITRE + [idTitre] [Pseudo] - Modifie le titre d'un joueur.
+POINTS + [qté] [Pseudo] - Donne des points boutique à un joueur.
+ITEMTYPE + [typeId] - Ajoute tous les objets du type d'objet dans ton inventaire.
+FULLMORPH - Transforme en crocoburio.
+UNFULLMORPH - Rend l'apparence origale après une FULLMORPH.
+PETSRES + [idItem] - Ressuscite le familier.
+GMLVL + [Gm] [Pseudo] - Modifie le niveau de droits du compte du joueur.
+XPJOB + [jobId] [+xp] [Pseudo] - Ajoute de l'expérience à un métier.
+LJOB + [jobId] [Pseudo] - Apprends un métier à un joueur.
+CAPITAL + [qté] [Pseudo] - Ajoute des points de capital à un joueur.
+SPELLPOINT + [qté] [Pseudo] - Ajoute des points de sorts à un joueur.
+LSPELL + [sortId] [Pseudo] - Apprends un sort à un joueur.
+LEVEL + [niveau] [Pseudo] - Fixe le niveau d'un joueur. Ajoute seulement des niveaux, ne peut pas en faire perdre.
+KAMAS + [qté] [Pseudo] - Ajoute des kamas.
+ITEMSET + [panoplieID] [jp] - Ajoute une panoplie dans ton inventaire.
+ITEM + [itemId] [qté] [jp] - Ajoute un objet dans ton inventaire.
+DELINVENTORY + [Pseudo] - Supprime tous les objets de l'inventaire du joueur.
+HONOR + [qté] [Pseudo] - Ajoute des points d'honneurs.
+ADDSF - Ajoute un SchemaFight à partir du Schema de la map actuelle.
+RSF - Supprime un SchemaFight à partir du Schema de la map actuelle.
+MSF + [idSf1] [idSf2] - Modifie toutes les maps du jeu qui ont comme SchemaFight le premier argument par le SchemaFight du deuxieme argument.
+SF + [idSf] - Applique le SchemaFight de l'argument sur le map actuelle.
+ISSF + [idSf] - Retourne s'il est possible d'appliquer le SchemaFight de l'argument sur la map.
+SHOWSF - Affiche tous les SchemaFight de la manière suivante : [id] Places
+HAVESF - Retourne l'id du SchemaFight de la map si elle en possède un.
+DALLSFBUG - Supprime toutes les CellFights des maps qui ont au moins une CellFight dans le décor [inclut seulement les maps 15*17 avec des monstres].
+APPLYALEASF - Ajoute des SchemaFight aléatoirement sur toutes les maps qui n'ont pas de CellFight [inclut seulement les maps 15*17 avec des monstres].
+SHOWFIGHTPOS - Voir les cellules de combats de la map.
+ADDFIGHTPOS + [0 ou 1] - Ajoute une cellule de combat.
+DELFIGHTPOS + [0 ou 1] - Supprime une cellule de combat.
+DELALLFIGHTPOS - Supprime toutes les ceulles de combats.
+ADDMOBSUBAREA + [Groupe] - Applique le groupe à toutes les maps de la sous-zone de la map actuelle. Rafraichit les maps.
+GSMOBSUBAREA + [MaxGroupe] [minSize] [fixSize] [maxSize] - Met à jour les variables de la sous-zone de la map actuelle. Rafraichit les maps.
+ADDCELLPARK - Permet d'ajouter notre position dans la liste des cellules de l'enclos.
+O - Ajoute une porte à l'enclos sur la cellule où l'on se trouve.
+SETGROUPE + [groupeId] [Pseudo] - Change le groupe du joueur. (-1) aucun groupe.
+SHOWRIGHTGROUPE + [groupeId] [commande] - Permet de lister les commandes d'un groupe avec un filtre ou non.
+INV - Permet de vous mettre invisible ou de vous rendre visible.
+INCARNAM - Téléporte à incarnam.
+ASTRUB - Téléporte à astrub.
+RELOADQUEST - Permet de recharger les quêtes à partir de la base de données.
+DELQUEST + [idQuest] [Pseudo] - Permet de supprimer la quête à un personnage.
+ADDQUEST + [idQuest] [Pseudo] - Permet d'apprendre une quête à un joueur.
+SKIPQUEST + [idQuest] [Pseudo] - Permet de passer la quête d'un personnage à l'étape suivante.
+FINISHQUEST + [idQuest] [Perso] - Permet de terminer la quête du personnage.
+ITEMQUEST + [IdQuest] - Ajoute tous les items nécessaire à la quête dans ton inventaire.
+RELOADADMIN - Permet de recharger les commandes, les groupes et les groupes de joueurs à partir de la base de données.
+WHOFIGHT - Permet d'avoir la liste de tous les connectés en combat.
+ENDFIGHTALL - Permet de terminer le combat de tous les joueurs. Tous les rouges sont gagnants.
+BANBYIP + [IP] - Interdit le serveur à tous les comptes qui ont la même IP que celle donné. Les expulse du serveur immédiatement.
+BANBYID + [ID] - Interdit au joueur de se connecter au serveur.
+BANACCOUNT + [NomDeCompte] - Permet de ban le compte et de le kicker s'il est connecté.
+ETATSERVER + [etat] - Change l'état du serveur. 0 : Hors-ligne 1 : En-ligne 2 : sauvegarde
+FINDEXTRAMONSTER - Permet de trouver les extra monsters qui ne devrait pas se trouver sur les maps.
+GETAREA - Retourne les ids des areas.
+MUTEIP + [Pseudo] - Mute tous les comptes liés à l'IP du compte.
+UNMUTEIP + [Pseudo] - Démute tous les comptes liés à l'IP de ce compte.
+ANIM + [ID] [CELLID] - lance un sort
+NGOTEAM + [Pseudo] - ramene toute la team
+SPAWNSIZE + [MONSTRE] - spawn un mobs size
+RELOADSCRIPTEDCELL - Recharge les scripted cell
+STARTBOUFBOWL + [pseudo pseudo] - demare un match de boufbowl
+CHANGECELL + [gfx] [calque] - modifie une cell
+LOADMAP + [id] - envoi une map sans swf au client
+BITS + [id] - test
+CELLTYPE + [type] - change le type dune celle
+CELLPENTE + [pente] - 
+CELLLVL + [lvl] - 
+CELLINFOS - 
+RATEDMG + [%] - change la rate dmg
+RATEXP + [%] - change la rate xp
+BOOK - book whoall
+NOAGRO - change maps agro

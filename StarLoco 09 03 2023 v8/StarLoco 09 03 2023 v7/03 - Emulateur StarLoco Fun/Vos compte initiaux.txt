@@ -1,0 +1,36 @@
+1)
+
+Format
+Nom de compte
+mot de passe
+
+MJ:
+
+iop
+123
+
+cra
+123
+
+eni
+123
+
+sacri
+123
+
+empire
+123
+
+panda
+123
+
+sram
+123
+
+Joueur classique :
+
+legend
+123
+
+
+Astuce, l'anneau de classe du cra permet de taper 3 fois avec flèche explo

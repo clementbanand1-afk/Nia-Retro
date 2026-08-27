@@ -1,0 +1,22 @@
+Map .start
+
+787 - SisterAliwawy - Vendeuse de potion de téléportation vers DJ
+816 -Bricka Brok ajouté dans table npc_template
+791 - Nopa Prespic ! Rigolo
+Pareil pour Bwork
+791 - 793
+792 - Nopa bouftou
+794 Nopa Abra
+958 - Classman pano class
+790 - Vendeuse de rune
+786 - Maître des clés
+952 - Vendeur de parchemin
+1158 - Vendeur de cape
+812 - Vendeur de chapeaux
+788-Vendeur de pain
+1223 - Fée Risette
+785 - George Cash
+
+
+
+Tous implantés sur la mapid 164
